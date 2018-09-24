@@ -35,7 +35,7 @@ UrgentBounceHeight=1.5
 #The height (in percent of IconSize) to bounce an icon when launching an application.
 LaunchBounceHeight=0.82499999999999996
 #The opacity value (0 to 1) to fade the dock to when hiding it.
-FadeOpacity=0
+FadeOpacity=1
 #The amount of time (in ms) for click animations.
 ClickTime=100
 #The amount of time (in ms) to bounce an urgent icon.
